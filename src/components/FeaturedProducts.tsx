@@ -20,7 +20,7 @@ const FeaturedProducts: React.FC = () => {
       id: 'desiccated-coconut',
       title: 'Desiccated Coconut',
       description: 'Finely grated dried coconut meat, ideal for culinary applications and baking.',
-      imageUrl: 'https://images.pexels.com/photos/3060260/pexels-photo-3060260.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
+      imageUrl: 'images/pexels-samerdaboul-1652001.jpg'
     },
     {
       id: 'coconut-water',
